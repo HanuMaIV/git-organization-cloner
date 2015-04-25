@@ -1,4 +1,6 @@
-# Git Organization Repo Cloner by Brendan Miranda [BrendanMiranda.com](http://www.brendanmiranda.com)
+# Git Organization Repo Cloner
+
+by Brendan Miranda [BrendanMiranda.com](http://www.brendanmiranda.com)
 
 Clone All the repos from your organization by running the parser.rb in the directory that you want your repos to be stored.
 
